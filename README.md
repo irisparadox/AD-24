@@ -32,3 +32,9 @@ The **Design of Algorithms** course teaches students how to approach and solve a
 ## 📂 Repository Structure
 
 Each folder corresponds to a separate **exercise/project** and includes all the necessary files for compiling and running in **Visual Studio**. The code is organized into source files, with explanations on whether the **STL** or **custom TADs** are used.
+
+> [!IMPORTANT]
+> Please note that:
+>  * The exercise problem statements are provided in Spanish.
+>  * Some solutions may include comments or explanations in Spanish.
+>  * Certain TADs (abstract data types) created by the university professors may contain function names or variables in Spanish.
