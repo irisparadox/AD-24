@@ -2,7 +2,7 @@
 
 Welcome to the repository containing **C++ exercise solutions** for the **Design of Algorithms** course at the **Complutense University of Madrid (UCM)**. Each exercise is implemented as a standalone **Visual Studio project**, using a mix of **Standard Template Library (STL) data structures** and **custom abstract data types (ADTs)** provided by the course instructors.
 
-> [!NOTE] This repository features solutions using both predefined C++ data structures (STL) and custom data types (TADs) created by the university professors.
+[!NOTE] This repository features solutions using both predefined C++ data structures (STL) and custom data types (TADs) created by the university professors.
 
 ## 📚 About the Course
 
