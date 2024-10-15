@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\gabri\Desktop\UCM\3\Primer Cuatrimestre\DA\CODE\EJERCICIOS\EJ1-2\EJ1-2\main.cpp(31,28): warning C4101: 'e': unreferenced local variable
+C:\Users\gabri\Desktop\UCM\3\Primer Cuatrimestre\DA\CODE\EJERCICIOS\EJ1-2\EJ1-2\TreeSet_AVL.h(123,1): warning C4715: 'Set<int,std::less<int> >::find_k': not all control paths return a value
+  EJ1-2.vcxproj -> C:\Users\gabri\Desktop\UCM\3\Primer Cuatrimestre\DA\CODE\EJERCICIOS\EJ1-2\x64\Debug\EJ1-2.exe
