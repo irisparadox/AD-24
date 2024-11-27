@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\gabri\Desktop\UCM\3\Primer Cuatrimestre\DA\CODE\EJERCICIOS\EJ11-L\EJ11-L\main.cpp(77,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gabri\Desktop\UCM\3\Primer Cuatrimestre\DA\CODE\EJERCICIOS\EJ11-L\EJ11-L\main.cpp(78,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  EJ11-L.vcxproj -> C:\Users\gabri\Desktop\UCM\3\Primer Cuatrimestre\DA\CODE\EJERCICIOS\EJ11-L\EJ11-L\x64\Debug\EJ11-L.exe
